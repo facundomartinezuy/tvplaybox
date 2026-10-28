@@ -1,0 +1,405 @@
+#EXTM3U
+
+==========================================
+
+⚽ DEPORTES
+
+==========================================
+
+#EXTINF:-1 group-title="DEPORTES", Sky Sports
+http://45.5.118.152:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 1
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN
+https://m3u.tvcluboficial.com/free/oct/oct/1111.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 1 | Chile
+http://m3u.tvcluboficial.com/free/oct/oct/1132.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 1 | Colombia
+http://m3u.tvcluboficial.com/free/oct/oct/1107.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 1 (Opcion 1)
+http://181.119.97.124:8080/play/a001/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
+http://190.108.83.69:8000/play/a0an/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 Backup
+http://45.167.1.136:8000/play/a06b
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 OP2
+http://181.176.155.7:8090/play/a1vv/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/108.ts
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/108.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 HD 4
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/449.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN CO 2
+http://181.205.130.194:4000/play/a08n
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 HD
+http://m3u.tvcluboficial.com/free/oct/oct/375.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 | Mexico
+http://m3u.tvcluboficial.com/free/oct/oct/378.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 (Opcion 1)
+http://181.119.97.124:8080/play/a002/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
+http://45.167.1.136:8000/play/a02k
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
+https://m3u.tvcluboficial.com/free/oct/oct/1110.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 (Opcion 1)
+http://181.119.97.124:8080/play/a003/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 Backup
+http://45.167.1.136:8000/play/a02l
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/110.ts
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 Latin (Alt)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4
+https://m3u.tvcluboficial.com/free/oct/oct/1105.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 HD (Opcion 1)
+http://45.228.234.30:16000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 (Opcion 1)
+http://181.119.97.124:8080/play/a004/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 5
+http://190.108.83.69:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 5 Backup
+http://45.167.1.136:8000/play/a04g
+#EXTINF:-1 group-title="DEPORTES", ESPN 5 (Alt)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 5
+https://m3u.tvcluboficial.com/free/oct/oct/1104.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 5 HD
+http://38.199.5.160:8000/play/a0a5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 5 HD (Opcion 3)
+http://45.228.234.30:16000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 6
+http://190.108.83.69:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 6 OP2
+http://45.167.1.136:8000/play/a06d
+#EXTINF:-1 group-title="DEPORTES", ESPN 6 Latin (Alt)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 6 HD 2
+http://181.205.130.194:4000/play/a0eh
+#EXTINF:-1 group-title="DEPORTES", ESPN 6 (Opcion 2)
+http://45.228.234.30:16000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 6 (Opcion 3)
+http://45.228.234.30:16000/play/a046/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 7
+http://190.108.83.69:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 7 Princ.
+http://181.118.153.15:8000/play/rq26/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 7 Latin
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 7 HD
+http://m3u.tvcluboficial.com/free/oct/oct/1106.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 7 HD (Opcion 1)
+http://190.60.32.178:8178/play/a0hs/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 7 HD
+http://38.199.5.160:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN The Ocho
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN-U-HD
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN Premium
+http://190.108.83.69:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN Premium
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN PREMIUM
+https://m3u.tvcluboficial.com/free/oct/oct/1112.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN Deportes
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.ts
+#EXTINF:-1 group-title="DEPORTES", Fox Deportes USA
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Sports
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS HD MEX
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/113.ts
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/113.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 HD MEX
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.ts
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX sports 2
+http://45.228.234.30:16000/play/a039/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX sports 2
+http://38.188.186.47:4000/play/a006/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3 HD MEX
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.ts
+#EXTINF:-1 group-title="DEPORTES", FOX Premier Ligue
+http://190.61.101.11:7050/play/a08w/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES", Fox Soccer Plus
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3414.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORT
+http://38.188.186.47:4000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Deportes
+http://m3u.tvcluboficial.com/free/oct/oct/1114.m3u8
+#EXTINF:-1 group-title="DEPORTES", Claro Sports 1
+http://45.167.1.136:8000/play/a00d
+#EXTINF:-1 group-title="DEPORTES", Claro Sports 2
+http://45.5.118.152:8000/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", CLARO SPORTS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.ts
+#EXTINF:-1 group-title="DEPORTES", CLARO SPORTS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8
+#EXTINF:-1 group-title="DEPORTES", Claro Sports 2 HD
+http://45.5.117.57:8999/play/a05n/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", CLARO Sports
+http://45.228.234.30:16000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Claro sports MX
+http://45.228.234.30:16000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", DSPORTS 1 ARG
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", dsports ar (Opción 1)
+https://s2.bufaloweb.com/bufalo9/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", dsports ar 2 (Opción 2)
+https://s2.bufaloweb.com/bufalo10/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", dsports ar 3 (Opción 3)
+https://s2.bufaloweb.com/bufalo11/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", dsports 2 ar
+https://b2zmawnpyww.fubo18.com/dsports/mono.m3u8?token=01e9f734c3d4b6ba544aa30854ce080f736a6a5a-ea-1792315358-1792297358
+#EXTINF:-1 group-title="DEPORTES", DSports +
+http://m3u.tvcluboficial.com/free/oct/oct/314.m3u8
+#EXTINF:-1 group-title="DEPORTES", Dsports
+https://m3u.tvcluboficial.com/free/oct/oct/1178.m3u8
+#EXTINF:-1 group-title="DEPORTES", Dsports +
+https://m3u.tvcluboficial.com/free/oct/oct/1179.m3u8
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS Ñ
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.ts
+#EXTINF:-1 group-title="DEPORTES", beIN Sports ñ HD 2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.m3u8
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTXTRA Ñ
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 2 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78379.ts
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 3 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/89342.ts
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 4 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78381.ts
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 5 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78382.ts
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 6 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78383.ts
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS Extra
+https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS Extra+
+https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", BeinSports Ñ
+http://m3u.tvcluboficial.com/free/oct/oct/90.m3u8
+#EXTINF:-1 group-title="DEPORTES", beIN SPORTS 6
+https://m3u.tvcluboficial.com/free/oct/oct/90.m3u8
+#EXTINF:-1 group-title="DEPORTES", beIN SPORTS 6
+https://m3u.tvcluboficial.com/free/oct/oct/91.m3u8
+#EXTINF:-1 group-title="DEPORTES", Win Sports + HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/126.ts
+#EXTINF:-1 group-title="DEPORTES", WIN SPORT (Opcion 1)
+http://190.60.32.178:8178/play/a0fk/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Win Sports
+http://m3u.tvcluboficial.com/free/oct/oct/1039.m3u8
+#EXTINF:-1 group-title="DEPORTES", Win Sports +
+http://m3u.tvcluboficial.com/free/oct/oct/1041.m3u8
+#EXTINF:-1 group-title="DEPORTES", Win Sports + HD
+http://m3u.tvcluboficial.com/free/oct/oct/1042.m3u8
+#EXTINF:-1 group-title="DEPORTES", Win Sports HD
+http://m3u.tvcluboficial.com/free/oct/oct/1044.m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN HD MEX
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.ts
+#EXTINF:-1 group-title="DEPORTES", Zona Tudn HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/7910.m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN
+http://45.5.117.57:8999/play/a04t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN
+http://m3u.tvcluboficial.com/free/oct/oct/952.m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN HD | Usa
+http://m3u.tvcluboficial.com/free/oct/oct/957.m3u8
+#EXTINF:-1 group-title="DEPORTES", TNT Sports Premium ARG
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+#EXTINF:-1 group-title="DEPORTES", TYC Sports (Alt) ARG
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/60.m3u8
+#EXTINF:-1 group-title="DEPORTES", TYC SPORTS HD 2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.m3u8
+#EXTINF:-1 group-title="DEPORTES", DEPORTES TyC (Opcion 1)
+http://38.188.186.47:4000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Dazn 3
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Dazn 4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Dazn 5
+http://23.237.104.106:8080/DAZN_5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Movistar LaLiga
+http://m3u.tvcluboficial.com/free/oct/oct/1100.m3u8
+#EXTINF:-1 group-title="DEPORTES", Movistar LaLiga HD
+http://m3u.tvcluboficial.com/free/oct/oct/668.m3u8
+#EXTINF:-1 group-title="DEPORTES", Sky Sports Bundesliga
+http://m3u.tvcluboficial.com/free/oct/oct/1124.m3u8
+#EXTINF:-1 group-title="DEPORTES", Sky Sports LaLiga
+http://m3u.tvcluboficial.com/free/oct/oct/1079.m3u8
+#EXTINF:-1 group-title="DEPORTES", SKY Sports Premier HD
+http://m3u.tvcluboficial.com/free/oct/oct/811.m3u8
+#EXTINF:-1 group-title="DEPORTES", sky sports la liga
+https://m3u.tvcluboficial.com/free/oct/oct/1124.m3u8
+#EXTINF:-1 group-title="DEPORTES", Vix Deportes 2
+http://m3u.tvcluboficial.com/free/oct/oct/1136.m3u8
+#EXTINF:-1 group-title="DEPORTES", Vix Deportes 5
+http://m3u.tvcluboficial.com/free/oct/oct/1152.m3u8
+#EXTINF:-1 group-title="DEPORTES", ECDF (El Canal del Fútbol)
+https://m3u.tvcluboficial.com/free/oct/oct/143.m3u8
+#EXTINF:-1 group-title="DEPORTES", TigoSports | Costa Rica
+http://m3u.tvcluboficial.com/free/oct/oct/1077.m3u8
+#EXTINF:-1 group-title="DEPORTES", Tigo Sports HD (Opcion 2)
+http://45.228.234.30:16000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Via X Sport
+http://38.226.49.253:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Golf Channel
+http://45.167.1.136:8000/play/a05s
+#EXTINF:-1 group-title="DEPORTES", Red Bull Tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="DEPORTES", TVC Deportes
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/122.ts
+#EXTINF:-1 group-title="DEPORTES", F5 Premium
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/375.ts
+#EXTINF:-1 group-title="DEPORTES", AYM Sports
+https://aym-as.otteravision.com/aym/as/as.m3u8
+#EXTINF:-1 group-title="DEPORTES", SKY SPORTS GT
+http://45.171.64.30:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", NBA TV
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/402.m3u8
+#EXTINF:-1 group-title="DEPORTES", Eliminatorias Concacaf 1
+https://dto4p9su9kcif.cloudfront.net/out/v1/45b4d7be5ac64a83bdfdca7b683b40b5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Eliminatorias Concacaf 2
+https://d29uu6lcvq8u18.cloudfront.net/out/v1/0fc428527c0b4981900340462bc9e390/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Eliminatorias Concacaf 3
+https://d2cozakhtdw466.cloudfront.net/out/v1/0310eeeafd9a491796b23aec39fad1c4/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="DEPORTES", PLUTO.TV FUTBOL PARA FANS
+https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
+#EXTINF:-1 group-title="DEPORTES", PLUTO.TV DEPORTES
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 group-title="DEPORTES", GOLAZO DE CBS SPORTS
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+#EXTINF:-1 group-title="DEPORTES", CBS SPORTS HQ
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+#EXTINF:-1 group-title="DEPORTES", NITRO
+http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES", Azteca Deportes (Opcion 2)
+http://45.228.234.30:16000/play/a047/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", LIGA
+http://45.228.234.30:16000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Evento
+http://m3u.tvcluboficial.com/free/oct/oct/325.m3u8
+#EXTINF:-1 group-title="DEPORTES", Eventos 2
+http://m3u.tvcluboficial.com/free/oct/oct/1131.m3u8
+
+==========================================
+
+🎬 PELÍCULAS Y SERIES
+
+==========================================
+
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", De Película
+http://181.78.23.26:45000/play/a041
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Sony Channel
+http://45.5.117.57:8999/play/a02t/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Star Channel
+http://45.5.117.57:8999/play/a03v/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", TCM
+http://45.5.117.57:8999/play/a02h/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Universal Premiere
+http://45.5.117.57:8999/play/a03j/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Warner TV
+http://45.5.117.57:8999/play/a02u/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", SONY ONE ÉXITOS
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", SONY ONE HITS ACCIÓN
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", SONY ONE SERIES COMEDIA
+https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", SONY ONE BLACKLIST
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Runtime Terror
+https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Runtime Accion
+https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Runtime Comedia
+https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Runtime Crimen
+https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Runtime Romance
+https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Runtime Familia
+https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", MY TIME MOVIES 1
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", MY TIME MOVIES 2
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Runtime Familia (Alt)
+https://jmp2.uk/stvp-ES700004C8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Trailers
+https://jmp2.uk/stvp-ESBC1700004PX
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Películas Top - Rakuten TV
+https://jmp2.uk/stvp-ES2600013H4
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Runtime Romance (Alt)
+https://jmp2.uk/stvp-ESBD800004KU
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Películas Románticas - Rakuten TV
+https://jmp2.uk/stvp-ES2600012C9
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Runtime Comedia (Alt)
+https://jmp2.uk/stvp-ESBD8000033W
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Comedia - Rakuten TV
+https://jmp2.uk/stvp-ES260000700
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Sony One Hits Comedia
+https://jmp2.uk/stvp-ES300007KS
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Grjngo - Películas Del Oeste
+https://jmp2.uk/stvp-ESBC2700002LO
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Bigtime - Películas Gratis
+https://jmp2.uk/stvp-ESBC2700003T8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Runtime Clásicos
+https://jmp2.uk/stvp-ES2200003DA
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Planeta de Cine
+https://jmp2.uk/stvp-ES2800001G7
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Cine Español - Rakuten TV
+https://jmp2.uk/stvp-ES3000008O8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Action Movie Channel
+https://jmp2.uk/stvp-ESBC40000248
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Sci-Fi - Rakuten TV
+https://jmp2.uk/stvp-ES500004NO
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Runtime Acción (Alt)
+https://jmp2.uk/stvp-ESBD80000288
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Sony One Hits Acción
+https://jmp2.uk/stvp-ES300006QJ
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Películas de Drama - Rakuten TV
+https://jmp2.uk/stvp-ES2600003UM
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Acción - Rakuten TV
+https://jmp2.uk/stvp-ES2600004BD
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", PASIONES HD (Opcion 1)
+http://190.60.32.178:8178/play/a0i1/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", PASIONES HD (Opcion 4)
+http://181.119.97.124:8080/play/a00u/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", A&E HD (Opcion 2)
+http://190.60.32.178:8178/play/a0eg/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", SPACE HD (Opcion 1)
+http://45.228.234.30:16000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", TNT HD (Opcion 2)
+http://190.60.32.178:8178/play/a0ic/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", STAR CHANNEL HD (Opcion 3)
+http://45.228.234.30:16000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Sony HD (Opcion 1)
+http://190.60.32.178:8178/play/a0iu/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", AXN HD (Opcion 1)
+http://190.60.32.178:8178/play/a0hu/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Cinecanal (Opcion 3)
+http://190.60.32.178:8178/play/a0k7/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Universal (Opcion 4)
+http://45.228.234.30:16000/play/a023/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Studio Universal (Opcion 1)
+http://45.228.234.30:16000/play/a028/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", TNT Novelas (Opcion 3)
+http://45.228.234.30:16000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", TNT Novelas (Opcion 4)
+http://45.228.234.30:16000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", Sony (Opcion 2)
+http://45.228.234.30:16000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS Y SERIES", AXN (Opcion 1)
+http://45.228.234.30:16000/play
